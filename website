@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AnotherWebsite</title>
+    <header> Doctor Hansen's Tubular Website!</header>
+
+    <head> Welcome!</head>
+    <img src="C:\Users\inkli\Downloads\Professor Hansen!!!.png" alt="The real slim hansen">
+    <p> Guys, welcome to your normal IT&C 101 class, it's ya boi Dr. Hansen. We're gonna start off this class with my
+        favorite language, HTML, and then move into my favorite youtube video, and close off this class with a
+        Thanksgiving recipe!</p>
+</head>
+
+<body>
+
+    <h1> Abstract</h1>
+    <p> Today class we'll talk about <em>HTML</em>. Now, what is HTML? Some would call it Hyper Text Markup Language.
+        But me, Professor Hansen, would call it Heckin Tubular Markup Language, haha. Now, for your lab, you'll be
+        creating <strong>YOUR OWN WEBSITE</strong> using this Heckin Tubular Markup Language. Okay good luck.</p>
+
+</body>
+
+<head> Study</head>
+<p> heyyyyy hows it goin YOUtube its ur boy Professor Hansen here with yet another video now today im gonna be showing u
+    how to smoke A ramp on Mirage in Apex legends that's right I know u guys have been waiting a while for this video
+    now guys ive been working on this video for a while so if u could just drop a like if u like the video dislike if u
+    dislike the video and please subscribe it really means a lot i appreciate all the help u guys have been giving me
+    these past few weeks now lets get right to it remember guys these smokes are very useful they can help u in many
+    situations for example say u just won pistol round </p>
+
+<head> Findings</head>
+<p> Okay classy class if you have never had gravy from turkey parts and homemade chicken stock before, take all the
+    extra turkey bones home tonight and MAKE SOME.
+    It is one of the most heavenly elixirs I have ever had. My soul ascended to a warm, earth-toned heaven. A rose of
+    warmth and hope filled my chest. I thought in than moment, I saw the patron saint of Thanksgiving, St. Corn Cob,
+    this year's presidential turkey. Simply transcendent.</p>
+
+</html>
+<p>
+    <script>
+        document.write((new Date().getHours() < 12) ? "Good morning!" : "Good
+            afternoon!")
+    </script>
+</p>
+
+<p>
+    <script>document.write(new Date().toLocaleString())</script>
+</p>
